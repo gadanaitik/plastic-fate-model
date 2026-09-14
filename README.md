@@ -41,11 +41,15 @@ This project seeks to address the following questions:
 ### Primary Questions
 
 1. How does plastic move between environmental compartments over time?
-
 2. Which environmental compartments act as long-term sinks for plastic accumulation?
-
 3. What processes contribute most strongly to plastic persistence?
-
 4. Which model parameters exert the greatest influence on predicted outcomes?
+5. How sensitive are model conclusions to assumptions?
 
-5. How sensitive are model conclusions to assumptions
+---
+
+## Repository Structure:
+The repository is organized to promote reproducibility, transparency, and future extensibility of the model.
+
+### notebooks/
+`Multi-Compartment Plastic Fate Model.ipynb`: Serves as the central implementation python notebook of the model. Data is simulated and generated within the notebook along with detailed explanations of the assumptions and easy-to-follow code and markdown cells.
