@@ -2,11 +2,11 @@
 
 ## Overview
 
-Plastic pollution has emerged as one of the most significant environmental challenges of the 21st century. Once released into the environment, plastics can be transported between multiple interconnected environmental compartments including surface waters, sediments, soils, the atmosphere, and biological systems. Understanding the long-term fate of plastics requires a systems-level approach that accounts for transport processes, degradation mechanisms, and compartment interactions.
+Plastic pollution has emerged as one of the most significant environmental challenges of the 21st century. Once released into the environment, plastics can be transported between multiple interconnected environmental compartments including surface waters, sediments, soils, the atmosphere, and biological systems. Today, microplastics are found even in the human body - blood, longs, liver, and WEF (World Economic Forum) claims that one study has found microplastic in our brains. Understanding the long-term fate of plastics requires an approach that accounts for transport processes, degradation mechanisms, and compartment interactions.
 
-This project develops a **multicompartment plastic fate model** to investigate the transport, accumulation, and persistence of plastics across environmental compartments. The model is designed as a mechanistic mass-balance framework that tracks plastic stocks and flows over time and evaluates how environmental processes influence long-term plastic distribution.
+This project develops a **multicompartment plastic fate model** to investigate the transport, accumulation, and persistence of plastics across environmental compartments. The model is designed as a mass-balance framework that tracks plastic stock and flows over time and evaluates how environmental processes influence long-term plastic distribution.
 
-This repository was developed as an independent research project in support of research interests in environmental modeling, uncertainty quantification, and sustainability science.
+This repository was developed as a independent side project in support of interests in climate change, environmental modeling, uncertainty quantification, and sustainability science.
 
 ---
 
