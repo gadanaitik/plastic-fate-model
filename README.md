@@ -53,3 +53,6 @@ The repository is organized to promote reproducibility, transparency, and future
 
 ### notebooks/
 `Multi-Compartment Plastic Fate Model.ipynb`: Serves as the central implementation python notebook of the model. Data is simulated and generated within the notebook along with detailed explanations of the assumptions and easy-to-follow code and markdown cells.
+
+### requirements.txt
+Lists all Python dependencies required to reproduce the model and analyses. 
